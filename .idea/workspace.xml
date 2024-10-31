@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57e9f986-b86c-43da-a9a2-bf92d918d02d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/midtermProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm.py" afterDir="false" />
+    <list default="true" id="57e9f986-b86c-43da-a9a2-bf92d918d02d" name="Changes" comment="Just the comments to get started">
+      <change beforePath="$PROJECT_DIR$/midterm.py" beforeDir="false" afterPath="$PROJECT_DIR$/midterm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +54,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730398923583</updated>
-      <workItem from="1730398925282" duration="29000" />
+      <workItem from="1730398925282" duration="74000" />
     </task>
+    <task id="LOCAL-00001" summary="Just the comments to get started">
+      <option name="closed" value="true" />
+      <created>1730398984029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730398984029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just the comments to get started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just the comments to get started" />
   </component>
 </project>
